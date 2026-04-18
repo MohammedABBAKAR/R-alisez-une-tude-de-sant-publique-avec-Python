@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+
 # R-alisez-une-tude-de-sant-publique-avec-Python
 Réalisez une étude de santé publique avec Python
 ## Contexte & Objectif
